@@ -1,0 +1,48 @@
+{
+  "retrieved_on": "2026-10-16",
+  "kind": "method-adaptation",
+  "files": [
+    {
+      "key": "ecc",
+      "repo": "affaan-m/ECC",
+      "revision": "76aaa77df6adc5b889e689007bf99b9a4f74af34",
+      "path": "agents/architect.md",
+      "sha256": "6b8e1e8bd274995f3949691731f4334820c061d3054eaea3be2ce163386d1f24"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/backend-development/skills/architecture-patterns/SKILL.md",
+      "sha256": "350caf22b856b7d2908a10a69a8cc13e743c757ba9838716051b4e29fc1d7595"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/comprehensive-review/agents/architect-review.md",
+      "sha256": "09c9710a4d7f23acea644091cd757d391eb7f0be99210a51eb05bbc1c98c0c3b"
+    },
+    {
+      "key": "superpowers",
+      "repo": "obra/superpowers",
+      "revision": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+      "path": "skills/brainstorming/SKILL.md",
+      "sha256": "6ee10d1481b8a2580d5336ff66c5c08acc9d4b251b13bbc3bfd31be99c261d43"
+    },
+    {
+      "key": "superpowers",
+      "repo": "obra/superpowers",
+      "revision": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+      "path": "skills/writing-plans/SKILL.md",
+      "sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a"
+    },
+    {
+      "key": "copilot",
+      "repo": "github/awesome-copilot",
+      "revision": "cb64ad12e32737ae764becd6885462e9b4c7cb00",
+      "path": "skills/architecture-blueprint-generator/SKILL.md",
+      "sha256": "a6a6f7a3b7a8210a9a391f2da3f3945bf86505341fd677eb2eb62e599520f512"
+    }
+  ]
+}

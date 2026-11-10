@@ -1,0 +1,15 @@
+{
+  "name": "ksf-abilities",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test scripts/catalog.test.mjs",
+    "snapshot": "node scripts/snapshot.mjs",
+    "check:immutable": "node scripts/check-immutable.mjs"
+  },
+  "dependencies": {
+    "yaml": "2.8.1"
+  }
+}

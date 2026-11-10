@@ -1,0 +1,62 @@
+{
+  "repository": "https://github.com/gentpan/liquidglass",
+  "commit": "068ad226f53e1ca62d857f78bdc32f58f3c5fce7",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "8074d858a3226b3dbfb660966bf89d56e59b81a435908f268eef93d063c56e6b"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "9207fbb4dd597bfcdfe01c25739b10faf5a42825565c74e3f161999350e17978"
+    },
+    {
+      "path": "assets/components.js",
+      "sha256": "968d5372ad45bf4b2e70afe42144c23ed60f97d4d365f8df14be3ec86ab195ff"
+    },
+    {
+      "path": "assets/demo.html",
+      "sha256": "589a7b554ccd82e00c5bc33a6c549d6de3c561af8c055a5e2a9cb007a1d315d5"
+    },
+    {
+      "path": "assets/glass-webgl.js",
+      "sha256": "0cdc8def96c2c67facafe029ca1a564da0df270fb089d7f30c6defe4606b0fce"
+    },
+    {
+      "path": "assets/liquid-glass.js",
+      "sha256": "92a62e5b80cfa7e03912b13bdc53aff1c0ae367a5f296de1327e0f62f0579210"
+    },
+    {
+      "path": "references/browser-quirks.md",
+      "sha256": "d416bcb294f16c513f0b0711992e16930858ddd53197eb65e47fd8b4aa26a6a8"
+    },
+    {
+      "path": "references/components.md",
+      "sha256": "67c0769fe87b7a6e135dbc99975dc8deb9f2d7036f4ac6dee862ad8632edad08"
+    },
+    {
+      "path": "references/optics.md",
+      "sha256": "47c77a65b39d1a8d9d5620781246250b641e9507f39fc2c79a40e4b323cb1d2d"
+    },
+    {
+      "path": "references/patterns.md",
+      "sha256": "df26de04f6414a6f6cf16d1d5912d03333066c56ab2450e8f785d5133654bd57"
+    },
+    {
+      "path": "scripts/chrome-shot.mjs",
+      "sha256": "e116f556c6c46293fbdf0ff8fe581833a51e74971f9755c46d83898c7f2bfda4"
+    },
+    {
+      "path": "scripts/serve.py",
+      "sha256": "5bfbab82ddb00a3b0ca4ec24c4d1f2aecfb9e335527ef1b39817e245c6460f73"
+    },
+    {
+      "path": "scripts/shoot.sh",
+      "sha256": "9af00254935e23fcd6f816bdf727ba9d3cc13e611eca7bf2a86bfaf519c52e10"
+    },
+    {
+      "path": "scripts/snap-webkit.swift",
+      "sha256": "8f8bdd1305d4ed6a401c5e7b75d383bcf8a6f528d14d97c90882fbe8c5b7500c"
+    }
+  ]
+}

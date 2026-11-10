@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.ksfability binary
+# Preserve frozen author definitions and licensed upstream bytes verbatim.
+能力/**/*.md whitespace=-blank-at-eof
+能力/**/upstream/** -whitespace
+能力/**/references/licenses/** -whitespace

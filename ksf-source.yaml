@@ -1,0 +1,5 @@
+kind: ksf-ability-source
+schema_version: 2
+id: ksf-abilities
+name: KSF 公用能力源
+description: KSF 通用专业能力，按需安装并保留个人定制。

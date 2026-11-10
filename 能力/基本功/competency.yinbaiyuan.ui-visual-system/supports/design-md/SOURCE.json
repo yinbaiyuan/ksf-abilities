@@ -1,0 +1,37 @@
+{
+  "origin": "upstream-reference",
+  "spec_repo": "google-labs-code/design.md",
+  "spec_commit": "ea4a3240d4c0d06778b9e39efeb553851be27c17",
+  "cli": "0.3.0",
+  "license": "Apache-2.0 (upstream specification only)",
+  "schema_version": 1,
+  "captured_at": "2026-10-25T03:20:31.002328+00:00",
+  "policy": "Optional support; original upstream files unchanged; adaptation in SUPPORT.md",
+  "files": {
+    "LICENSE.upstream": {
+      "sha256": "567e786a7f32a41bad604c32cb202cefe51ab11c5df5434444d6fe7d421eece2",
+      "bytes": 11361,
+      "executable": false
+    },
+    "SUPPORT.md": {
+      "sha256": "6f64bbf2000cdb8d44d4ef822b663f454e76b60c1e0666b93bf4ee7476f160b0",
+      "bytes": 445,
+      "executable": false
+    },
+    "upstream/references/example.md": {
+      "sha256": "a17b686dcb0a71f5dc5e1408d7aed3f34b48e20a6a8c286ff3450f2edafd570b",
+      "bytes": 2941,
+      "executable": false
+    },
+    "upstream/references/philosophy.md": {
+      "sha256": "8195248877a8019cf7e4985597d444b12f8559e50352cc02abbe3dd1686f1cce",
+      "bytes": 6611,
+      "executable": false
+    },
+    "upstream/references/spec.md": {
+      "sha256": "4c670f5020cf1575ae45ddd1228085288bec687117760a999f64a8f7d6fe1725",
+      "bytes": 14941,
+      "executable": false
+    }
+  }
+}

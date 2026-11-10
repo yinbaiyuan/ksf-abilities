@@ -1,0 +1,41 @@
+{
+  "retrieved_on": "2026-10-16",
+  "kind": "method-adaptation",
+  "files": [
+    {
+      "key": "ecc",
+      "repo": "affaan-m/ECC",
+      "revision": "76aaa77df6adc5b889e689007bf99b9a4f74af34",
+      "path": "skills/api-design/SKILL.md",
+      "sha256": "250e464413a13c0eb93cc73447b423df1f9aa8e4f80e5e68c41f895b2c33e352"
+    },
+    {
+      "key": "ecc",
+      "repo": "affaan-m/ECC",
+      "revision": "76aaa77df6adc5b889e689007bf99b9a4f74af34",
+      "path": "skills/hexagonal-architecture/SKILL.md",
+      "sha256": "1579f70e4cd5a2dde39d29a2055d18b39f06b063a308d3b43a498900c99495b7"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/backend-development/skills/architecture-patterns/SKILL.md",
+      "sha256": "350caf22b856b7d2908a10a69a8cc13e743c757ba9838716051b4e29fc1d7595"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/backend-development/skills/architecture-patterns/references/advanced-patterns.md",
+      "sha256": "e1cb31c83b532e579991de277836a1ea5e3d88b2ca30fc8ac16f6047ceca439e"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/backend-development/skills/architecture-patterns/references/details.md",
+      "sha256": "a53411600b253b343247db9d86140f3136ee7bd26a67aa8411962bcc1f5ff981"
+    }
+  ]
+}

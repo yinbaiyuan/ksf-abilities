@@ -1,0 +1,28 @@
+{
+  "repo": "anthropics/skills",
+  "commit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+  "path": "skills/frontend-design",
+  "license": "Apache-2.0",
+  "schema_version": 1,
+  "captured_at": "2026-10-25T03:20:30.979811+00:00",
+  "policy": "Optional support; original upstream files unchanged; adaptation in SUPPORT.md",
+  "files": {
+    "SUPPORT.md": {
+      "sha256": "84209c1354ecc09ebd779dfc1989a5dd5b4185b42cabd8910f3b3b6b694b467b",
+      "bytes": 1494,
+      "executable": false
+    },
+    "upstream/LICENSE.txt": {
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "bytes": 10174,
+      "executable": false
+    },
+    "upstream/SKILL.md": {
+      "sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3",
+      "bytes": 9390,
+      "executable": false
+    }
+  },
+  "source_url": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/frontend-design",
+  "origin": "upstream-reference"
+}

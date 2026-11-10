@@ -1,0 +1,34 @@
+{
+  "retrieved_on": "2026-10-16",
+  "kind": "method-adaptation",
+  "files": [
+    {
+      "key": "ecc",
+      "repo": "affaan-m/ECC",
+      "revision": "76aaa77df6adc5b889e689007bf99b9a4f74af34",
+      "path": "skills/architecture-decision-records/SKILL.md",
+      "sha256": "263b20e81801aa5fa7e75eaec6c38345c0ac028ca0edbd67b1b9071c5fcbe11f"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/documentation-generation/skills/architecture-decision-records/SKILL.md",
+      "sha256": "c01316d5ef7b5ff27ac658fd3b0509fc9b76ce78f580fd830ba41c46f4f7b781"
+    },
+    {
+      "key": "agents",
+      "repo": "wshobson/agents",
+      "revision": "044b4b21f083948e69ec878a7b07c8d0951a6ffa",
+      "path": "plugins/documentation-generation/skills/architecture-decision-records/references/decision-templates.md",
+      "sha256": "22cf12aafcad223597451c91c8590f325aad8f1a7c83c1c0690dbfef151f5823"
+    },
+    {
+      "key": "superpowers",
+      "repo": "obra/superpowers",
+      "revision": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+      "path": "skills/writing-plans/SKILL.md",
+      "sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a"
+    }
+  ]
+}
