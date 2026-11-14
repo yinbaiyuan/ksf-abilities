@@ -3,7 +3,7 @@ id: competency.yinbaiyuan.architecture-design
 name: 架构设计与模式选择
 description: 根据需求、工程约束和实际问题选择最小必要架构，设计模块职责、接口、数据流、失败处理与验证办法；比较取舍，按需运用分层、六边形架构、DDD 和分布式模式。
 status: active
-version: 0.1.2
+version: 0.1.3
 references: []
 ---
 # 架构设计与模式选择

@@ -11,3 +11,8 @@ test('partner-only distribution keeps frozen member archives and historical shar
   const index=JSON.parse(readFileSync(join(root,'dist/index.json'))),leaf=JSON.parse(readFileSync(join(root,'dist',index.directory.url)));assert.deepEqual(leaf.entries.filter(o=>!o.withdrawn).map(o=>o.id),[a]);assert.equal(leaf.entries.find(o=>o.id===a).distribution.members[0].id,m);assert.equal(leaf.entries.find(o=>o.id===m).bundled,true);assert.ok(existsSync(join(root,'dist',legacy.directory.url)));assert.ok(existsSync(join(root,'dist/packages',digest(oldM.bytes)+'.ksfability')));assert.ok(readFileSync(join(root,'releases',m,'0.1.0.ksfability')).equals(oldM.bytes));
  }finally{rmSync(root,{recursive:true,force:true});}
 });
+
+import {checkAbilityReferences} from './ability-reference-check.mjs';
+test('current executable references must match bundled method versions',()=>{
+ const a='partner.author.coach',m='competency.author.method';const make=version=>({protocol:'ksf-ability-package-v1',objects:[{id:a,relative:'a'},{id:m,relative:'m',version:'0.1.3'}],files:[{path:'a/partner.md',content:Buffer.from('Read `'+m+'@'+version+'` before work.').toString('base64')},{path:'m/competency.md',content:Buffer.from('# Method').toString('base64')}]});assert.throws(()=>checkAbilityReferences(make('0.1.1')),/Stale ability reference/);assert.equal(checkAbilityReferences(make('0.1.3')),2);
+});

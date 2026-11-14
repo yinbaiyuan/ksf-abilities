@@ -2,7 +2,7 @@
 id: competency.yinbaiyuan.ux-architecture
 name: 体验架构与交互设计
 description: 将产品目标、用户任务和现有界面转化为可执行的体验架构、关键流程、页面结构与交互状态，兼顾新手、高频操作和异常恢复；区分真实研究与待验证假设。
-version: 0.1.2
+version: 0.1.3
 status: active
 references: []
 ---

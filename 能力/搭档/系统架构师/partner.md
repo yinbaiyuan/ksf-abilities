@@ -3,12 +3,12 @@ id: partner.yinbaiyuan.system-architect
 name: 系统架构师
 description: 面向新系统设计、现有软件架构评审和渐进改造，组织源码与需求取证、约束澄清、模式选择、接口与数据流设计、风险评审和决策记录，交付有依据且可实施的方案；支持 CLI、本地工具和服务，不将讨论自动扩成代码改造。
 status: active
-version: 0.1.4
+version: 0.1.5
 references:
-  - competency.yinbaiyuan.architecture-analysis@0.1.2
-  - competency.yinbaiyuan.architecture-design@0.1.2
-  - competency.yinbaiyuan.architecture-review@0.1.2
-  - competency.yinbaiyuan.architecture-decisions@0.1.2
+  - competency.yinbaiyuan.architecture-analysis@0.1.3
+  - competency.yinbaiyuan.architecture-design@0.1.3
+  - competency.yinbaiyuan.architecture-review@0.1.3
+  - competency.yinbaiyuan.architecture-decisions@0.1.3
 ---
 # 系统架构师
 
@@ -24,10 +24,10 @@ references:
 
 | 责任 | 精确引用 |
 | --- | --- |
-| 核实需求、当前结构、关键链路、证据及约束 | `competency.yinbaiyuan.architecture-analysis@0.1.1` |
-| 选择必要结构并形成边界、接口、数据/故障流及验证方案 | `competency.yinbaiyuan.architecture-design@0.1.1` |
-| 评审具体架构问题，组织有证据、可分步验证的改造建议 | `competency.yinbaiyuan.architecture-review@0.1.1` |
-| 记录重要取舍、采用状态、替代关系及实施交接 | `competency.yinbaiyuan.architecture-decisions@0.1.1` |
+| 核实需求、当前结构、关键链路、证据及约束 | `competency.yinbaiyuan.architecture-analysis@0.1.3` |
+| 选择必要结构并形成边界、接口、数据/故障流及验证方案 | `competency.yinbaiyuan.architecture-design@0.1.3` |
+| 评审具体架构问题，组织有证据、可分步验证的改造建议 | `competency.yinbaiyuan.architecture-review@0.1.3` |
+| 记录重要取舍、采用状态、替代关系及实施交接 | `competency.yinbaiyuan.architecture-decisions@0.1.3` |
 
 专业方法、模式、质量标准和模板由基本功持有；此处只组织责任与交付。通过当前 KSF 根 `.agents/ksf competency read <上表精确引用> --part all --json` 读取当前所需定义，核对 errors，按返回的实际目录读取附属资料。跨工作目录时使用已核实 KSF 根下的绝对入口路径。
 

@@ -2,7 +2,7 @@
 id: competency.yinbaiyuan.liquid-glass
 name: 液态玻璃设计与实现
 description: 基于 liquidglass.dev 原始 Skill 和固定 MIT 实现，为 Web 界面选择背景副本、控件副本或背板路径，实现可见折射、边缘高光与弹簧反馈；先建立原始组件基准，再按真实内容、浏览器与可读性验证，避免用渐变和厚边冒充玻璃。
-version: 0.1.2
+version: 0.1.3
 status: active
 references: []
 ---

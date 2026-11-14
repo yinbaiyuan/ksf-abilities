@@ -3,9 +3,9 @@ id: competency.yinbaiyuan.architecture-review
 name: 架构评审与渐进改造
 description: 沿实际调用和数据链路评审架构及变更，以代码证据说明问题、影响和验证方式，形成兼容、可分步交付的改造建议；复用设计标准，不为风格差异或假设增长发起重写。
 status: active
-version: 0.1.2
+version: 0.1.3
 references:
-  - competency.yinbaiyuan.architecture-design@0.1.2
+  - competency.yinbaiyuan.architecture-design@0.1.3
 ---
 # 架构评审与渐进改造
 
@@ -19,7 +19,7 @@ references:
 
 需要范围、目标、实际设计/代码和相关约束。已有工程先追踪与本题相关的入口和链路；只有设计稿时明确是设计评审。缺关键代码/部署/运行证据时保持受影响项未知，先完成独立部分。
 
-必须通过当前 KSF 的对象 CLI 读取 `competency.yinbaiyuan.architecture-design@0.1.1` 并核对 errors，再从返回的实际目录读取 `references/boundary-standards.md`；需要模式细节时读取同目录 `references/patterns.md`。这里不重复维护该标准，也不写死系统/用户覆盖后的旧路径。依赖不可用时说明哪些判断受阻，仍可列已核实事实，不能宣称完成全项架构验收。
+必须通过当前 KSF 的对象 CLI 读取 `competency.yinbaiyuan.architecture-design@0.1.3` 并核对 errors，再从返回的实际目录读取 `references/boundary-standards.md`；需要模式细节时读取同目录 `references/patterns.md`。这里不重复维护该标准，也不写死系统/用户覆盖后的旧路径。依赖不可用时说明哪些判断受阻，仍可列已核实事实，不能宣称完成全项架构验收。
 
 ## 方法
 
