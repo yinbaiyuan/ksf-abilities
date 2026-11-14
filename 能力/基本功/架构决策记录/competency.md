@@ -3,7 +3,7 @@ id: competency.yinbaiyuan.architecture-decisions
 name: 架构决策记录
 description: 将重要架构取舍写成有背景、替代方案、后果和重评条件的决策记录，区分建议与已确认决定，维护替代关系并形成实施交接；不从现有代码编造历史理由或自动接受方案。
 status: active
-version: 0.1.2
+version: 0.1.3
 references: []
 ---
 # 架构决策记录
