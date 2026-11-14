@@ -2,7 +2,7 @@
 id: competency.yinbaiyuan.ui-visual-system
 name: 视觉设计与设计系统
 description: 根据产品、品牌和使用任务建立有辨识度的视觉方向，完成可见概念、界面与可复用设计规范；通过排版、比例、色彩、内容、动效和适配形成品质，局部优化保留既有设计语言。
-version: 0.1.1
+version: 0.1.2
 status: active
 references: []
 ---

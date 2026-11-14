@@ -2,7 +2,7 @@
 id: competency.yinbaiyuan.ui-style-reference
 name: 界面风格参考
 description: 收录可参考的界面风格、组件和动效。用于保存设计灵感、查找同场景案例或比较视觉方向，交付有来源、适用场景和可借鉴做法的参考条目。
-version: 0.1.1
+version: 0.1.2
 status: active
 references:
   - ./references/style-library.md

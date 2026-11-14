@@ -2,7 +2,7 @@
 id: competency.yinbaiyuan.ui-prototyping
 name: 交互原型与界面落地
 description: 将已明确的体验与视觉方案转化为适合验证问题的可操作原型或已授权界面实现，核对工具、状态、数据边界、响应式和还原效果，交付可运行成果与真实验证范围。
-version: 0.1.1
+version: 0.1.2
 status: active
 references: []
 ---

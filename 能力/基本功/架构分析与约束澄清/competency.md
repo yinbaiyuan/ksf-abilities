@@ -3,7 +3,7 @@ id: competency.yinbaiyuan.architecture-analysis
 name: 架构分析与约束澄清
 description: 从需求、源码和配置还原软件系统边界、关键链路与约束，形成带证据的现状和设计输入；区分事实、假设、目标和未知，不凭目录名或示例推断现状。
 status: active
-version: 0.1.1
+version: 0.1.2
 references: []
 ---
 # 架构分析与约束澄清
