@@ -3,9 +3,9 @@ id: competency.yinbaiyuan.architecture-review
 name: 架构评审与渐进改造
 description: 沿实际调用和数据链路评审架构及变更，以代码证据说明问题、影响和验证方式，形成兼容、可分步交付的改造建议；复用设计标准，不为风格差异或假设增长发起重写。
 status: active
-version: 0.1.1
+version: 0.1.2
 references:
-  - competency.yinbaiyuan.architecture-design@0.1.1
+  - competency.yinbaiyuan.architecture-design@0.1.2
 ---
 # 架构评审与渐进改造
 

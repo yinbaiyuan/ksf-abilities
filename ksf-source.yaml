@@ -2,4 +2,8 @@ kind: ksf-ability-source
 schema_version: 2
 id: ksf-abilities
 name: KSF 公用能力源
-description: KSF 通用专业能力，按需安装并保留个人定制。
+description: 按搭档整体交付场景基本功与资料，按需安装并保留个人定制。
+distribution:
+  entries:
+    - partner.yinbaiyuan.senior-interaction-designer
+    - partner.yinbaiyuan.system-architect

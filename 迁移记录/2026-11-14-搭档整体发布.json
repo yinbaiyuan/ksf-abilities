@@ -1,0 +1,122 @@
+{
+  "sourceId": "ksf-abilities",
+  "entries": [
+    "partner.yinbaiyuan.senior-interaction-designer",
+    "partner.yinbaiyuan.system-architect"
+  ],
+  "changes": [
+    {
+      "id": "partner.yinbaiyuan.senior-interaction-designer",
+      "from": "0.1.1",
+      "to": "0.1.4",
+      "path": "能力/搭档/partner.yinbaiyuan.senior-interaction-designer/partner.md",
+      "before": "a84d7d01cf12df8cbf85964da2402e18fb290e14e11d483e7417141f47f48449",
+      "after": "bc6b43a199685f409819c9f5b3897d49568d4995002b6bba9464950145fb6a6c",
+      "bodySha256": "031676b95add30a307e8516db5fd722ef3e9280771f387745dce466f73c5c92f"
+    },
+    {
+      "id": "partner.yinbaiyuan.system-architect",
+      "from": "0.1.1",
+      "to": "0.1.4",
+      "path": "能力/搭档/系统架构师/partner.md",
+      "before": "06c3d1ec606c53017f3814738c318cdab34b4c0f51c8dc9a5069a9d9eb980584",
+      "after": "6d3232fa1908821a2f3e5d27fc9b8efc7981da285ecd5961749a94292366f3a6",
+      "bodySha256": "13ea8011bdd953c6018acdbe80a3491cbb2fb1bb7c5c6beced05cef0f732df98"
+    },
+    {
+      "id": "competency.yinbaiyuan.liquid-glass",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/competency.yinbaiyuan.liquid-glass/competency.md",
+      "before": "1f4e3c27bad4a33982fd84b9857fd345e21c016b36e05e9df7c34ad01dbe89d3",
+      "after": "43a17d6cbfb201df224944ea459b1b41d766b1c33a0595bbe7676885cb8fb77e",
+      "bodySha256": "3b79485b3878dc2ce14762bee64a09812abb61adb58f8c2b759eccb4e57723b1"
+    },
+    {
+      "id": "competency.yinbaiyuan.ui-prototyping",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/competency.yinbaiyuan.ui-prototyping/competency.md",
+      "before": "dc3c67b23ba643568f054c991169a94f633418f366387f034cd1fe759dd48eaa",
+      "after": "cccbc09fa8b4d15e37944237bf7e99e388b82e638323f9ca9fcaf18362db4868",
+      "bodySha256": "a80afcec90bdf0a23d60023286c21f482e13ec5e18602cc104a1dbeaa5ff3f3a"
+    },
+    {
+      "id": "competency.yinbaiyuan.ui-style-reference",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/competency.yinbaiyuan.ui-style-reference/competency.md",
+      "before": "497faaede1217a81155c7885c93b7dfee223b49fbdc7025bc1144b8b2208e40f",
+      "after": "20569dd43318922c607140ba13248e275c90cb2a79be8b731114c60f82bd0840",
+      "bodySha256": "f8df401ee3c1a34bdcf44b5a38438bc498835b388f3e3d742487c35b84431862"
+    },
+    {
+      "id": "competency.yinbaiyuan.ui-visual-system",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/competency.yinbaiyuan.ui-visual-system/competency.md",
+      "before": "aaf973fff54f1409ffacac6b3958dbdd9d36f9b4eea92d90ad73a9832557d3b3",
+      "after": "114ff8bb5f06e0eba28c4b7221fb2ef58b81bd7d648e7dff9961a678fb21078e",
+      "bodySha256": "66d03577867f8f3f0054eec664fe25775b0024f3f4a4a7e513aacb2271caeb9e"
+    },
+    {
+      "id": "competency.yinbaiyuan.ux-architecture",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/competency.yinbaiyuan.ux-architecture/competency.md",
+      "before": "741b4c41119b7fa5f2da146068a11c6fc74697fe7d11fd0303956e8a77b085a7",
+      "after": "1148d0c2583fcda2a1eaf78671de3f43267b59b3229079cf8097d1a04463044d",
+      "bodySha256": "20ab394e00a749a58b4ff613eb9188b940dfca32c234b79a475be66061974c0b"
+    },
+    {
+      "id": "competency.yinbaiyuan.ux-evaluation",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/competency.yinbaiyuan.ux-evaluation/competency.md",
+      "before": "35106e78f31894c80a87e00efc5c776cf096a523cf01b8d267989377c3308671",
+      "after": "db5b528587b925100b65e90ffcf8792892a0629929fc59abedd4ddce9c4abbc5",
+      "bodySha256": "f88771f3d2dfcf31b30024b9d29e986990a147b8eedb3405b8c2e1770f2342ff"
+    },
+    {
+      "id": "competency.yinbaiyuan.architecture-decisions",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/架构决策记录/competency.md",
+      "before": "a25551316b1d68908ded6939336b9743ae65e6b4f897e980df8adfa0be863fa0",
+      "after": "8d7b22c9bbbd9735fce3a35db0e7b4867a0cb2b507d7afaff98de18c72824586",
+      "bodySha256": "6f82471cf43a65ad5d5a09b4bdb62ba013e272bef5a087a1d74af490ef452480"
+    },
+    {
+      "id": "competency.yinbaiyuan.architecture-analysis",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/架构分析与约束澄清/competency.md",
+      "before": "476df690fde24efa2fe17345635669d6dec6accd30ca9c5eb4191a15210fc483",
+      "after": "942ebae9c3905bc906b9f491b472122d39041a529e0f934a22f7ce615391b5c2",
+      "bodySha256": "61c30545a6a8a9324c04c42348ba668dedc2f7c7d39e9822f3065648fba4bdff"
+    },
+    {
+      "id": "competency.yinbaiyuan.architecture-design",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/架构设计与模式选择/competency.md",
+      "before": "cc47d2a8ecbab88bf4ddb0a4b2d3c90899ba4dda31b6495e190bff1f0a51fa70",
+      "after": "5cdbf00589e5a8a0fa8e91ddc15a83e53be6ef4a294174222615324f498c768b",
+      "bodySha256": "6e2b7294490780bab7b692c99066aee8e96c4c98192e2abf493680fbb311a940"
+    },
+    {
+      "id": "competency.yinbaiyuan.architecture-review",
+      "from": "0.1.1",
+      "to": "0.1.2",
+      "path": "能力/基本功/架构评审与渐进改造/competency.md",
+      "before": "0238a87a30f50ce5f445dca622d28d8a97b7b8fb32bc07c64ba7bae0fb6535b1",
+      "after": "e86b1f68c404783365bdf16ea1d25f643934cde8c760de6693b9329ba6e882f7",
+      "bodySha256": "a3f1ae3fa4b6d17bf25505e7578baead65733e76673a38af73cd6c0a42292e35"
+    }
+  ],
+  "delivery": {
+    "protocol": "ksf-ability-package-v1",
+    "minimumConsumerCore": "0.5.6",
+    "memberLookups": "hidden, whole-product binary"
+  }
+}

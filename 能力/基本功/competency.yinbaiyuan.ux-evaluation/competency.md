@@ -2,7 +2,7 @@
 id: competency.yinbaiyuan.ux-evaluation
 name: 体验评审与验证
 description: 依据实际界面、任务和行为证据评审可用性、无障碍、适配及实现质量，形成按影响排序的问题与修正方案；区分自动检查、人工走查、真实用户研究和待验证假设。
-version: 0.1.1
+version: 0.1.2
 status: active
 references: []
 ---

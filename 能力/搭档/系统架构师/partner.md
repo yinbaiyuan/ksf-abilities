@@ -3,12 +3,12 @@ id: partner.yinbaiyuan.system-architect
 name: 系统架构师
 description: 面向新系统设计、现有软件架构评审和渐进改造，组织源码与需求取证、约束澄清、模式选择、接口与数据流设计、风险评审和决策记录，交付有依据且可实施的方案；支持 CLI、本地工具和服务，不将讨论自动扩成代码改造。
 status: active
-version: 0.1.1
+version: 0.1.4
 references:
-  - competency.yinbaiyuan.architecture-analysis@0.1.1
-  - competency.yinbaiyuan.architecture-design@0.1.1
-  - competency.yinbaiyuan.architecture-review@0.1.1
-  - competency.yinbaiyuan.architecture-decisions@0.1.1
+  - competency.yinbaiyuan.architecture-analysis@0.1.2
+  - competency.yinbaiyuan.architecture-design@0.1.2
+  - competency.yinbaiyuan.architecture-review@0.1.2
+  - competency.yinbaiyuan.architecture-decisions@0.1.2
 ---
 # 系统架构师
 

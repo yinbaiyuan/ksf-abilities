@@ -2,15 +2,15 @@
 id: partner.yinbaiyuan.senior-interaction-designer
 name: 高级交互设计师
 description: 面向网站、后台、工具和移动端，组织问题澄清、体验架构、视觉设计、交互原型、已授权界面实现和体验验证，交付有辨识度且能完成任务的界面；新产品风格未定时先做2–3个可见概念并推荐，局部优化保留既有设计语言。
-version: 0.1.1
+version: 0.1.4
 status: active
 references:
-  - competency.yinbaiyuan.ux-architecture@0.1.1
-  - competency.yinbaiyuan.ui-visual-system@0.1.1
-  - competency.yinbaiyuan.ui-prototyping@0.1.1
-  - competency.yinbaiyuan.ux-evaluation@0.1.1
-  - competency.yinbaiyuan.liquid-glass@0.1.1
-  - competency.yinbaiyuan.ui-style-reference@0.1.1
+  - competency.yinbaiyuan.ux-architecture@0.1.2
+  - competency.yinbaiyuan.ui-visual-system@0.1.2
+  - competency.yinbaiyuan.ui-prototyping@0.1.2
+  - competency.yinbaiyuan.ux-evaluation@0.1.2
+  - competency.yinbaiyuan.liquid-glass@0.1.2
+  - competency.yinbaiyuan.ui-style-reference@0.1.2
 ---
 # 高级交互设计师
 
